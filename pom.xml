@@ -31,19 +31,19 @@
 	</build>
  <repositories>
     <repository>
-      <id>java-maven-war-app-group</id>
-      <url>http://172.31.36.104:8081/repository/java-maven-war-app-group/</url>
+      <id>java-maven-war-app_group</id>
+      <url>http://http://172.31.42.9:8081/repository/java-maven-war-app_group/</url>
     </repository>
   </repositories>
 
     <distributionManagement>
     <snapshotRepository>
-      <id>java-maven-war-app-snapshot</id>
-      <url>http://172.31.36.104:8081/repository/java-maven-war-app-snapshot/</url>
+      <id>java-maven-war-app_snapshot</id>
+      <url>http://http://172.31.42.9:8081/repository/java-maven-war-app_snapshot/</url>
     </snapshotRepository>
     <repository>
-      <id>java-maven-war-app-releases</id>
-      <url>http://172.31.36.104:8081/repository/java-maven-war-app-releases/</url>
+      <id>java-maven-war-app_releases</id>
+      <url>http://http://172.31.42.9:8081/repository/java-maven-war-app_releases/</url>
     </repository>
   </distributionManagement>
 </project>
